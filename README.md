@@ -1,6 +1,5 @@
 # Passionate Software Engineer
 
----
 ## Technologies I have learned and working on.
 - Nodejs
 - Typescript
