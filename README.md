@@ -1,4 +1,4 @@
-# Passionate Software Engineer
+# Passionate pr0grammer with extensive working knowledge gained over the past few years.
 
 ## Technologies I have learned and working on.
 - Nodejs
@@ -18,25 +18,33 @@
 - OAuth 2.0
 - CI/CD
 - WebSocket
+- Tailwind CSS
 - Matplotlib
+  
 ---
+
 ### I also know
 - Python
 - C++
 - Java
 - Fortran
+
 ---
+
 ### I have also CMS knowledge 😜
 - Wordpress (Expert)
 - WooCommerce
 - Webflow
 - Blogger
+  
 ---
+
 ### Tools & Management Softwares I use
 - Jira
 - Linear
 - Postman
+  
 ---
+
 ### Favourite Operating System
 - Linux (Ubuntu)
----
