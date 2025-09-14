@@ -32,7 +32,7 @@
 ---
 
 ### I have also CMS knowledge 😜
-- Wordpress (Expert)
+- Wordpress
 - WooCommerce
 - Webflow
 - Blogger
