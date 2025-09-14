@@ -20,6 +20,7 @@
 - WebSocket
 - Tailwind CSS
 - Matplotlib
+- MobX
   
 ---
 
