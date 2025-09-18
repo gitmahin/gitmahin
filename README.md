@@ -12,6 +12,7 @@
 - Nginx
 - Bash Scripting
 - React
+- Recharts
 - Nextjs
 - PostgreSQL
 - MongoDB
