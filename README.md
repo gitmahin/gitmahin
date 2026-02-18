@@ -1,11 +1,12 @@
 # Passionate pr0grammer with extensive working knowledge gained over the past few years.
 
-## Technologies I have learned and working on.
+## Technologies I'm working on.
 - Nodejs
 - Typescript
 - AWS
 - Redis
 - Docker
+- Kubernetes
 - Kafka
 - REST API
 - GraphQl
