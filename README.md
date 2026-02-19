@@ -19,8 +19,6 @@
 - OAuth 2.0
 - Python
 
----
-
 ## My Frontend Skills 
 
 - TypeScript
@@ -30,7 +28,6 @@
 - MobX
 - Recharts
 
----
 
 ## I also know
 
@@ -39,7 +36,6 @@
 - C#
 - Fortran
 
----
 
 ## CMS & Web Platforms
 
@@ -48,7 +44,6 @@
 - Webflow
 - Blogger
 
----
 
 ## Tools & Management
 
@@ -56,7 +51,6 @@
 - Linear
 - Postman
 
----
 
 ## OS
 
