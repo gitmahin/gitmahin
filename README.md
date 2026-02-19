@@ -1,54 +1,63 @@
 # Passionate pr0grammer with extensive working knowledge gained over the past few years.
 
-## Technologies I'm working on.
-- Nodejs
-- Typescript
-- AWS
-- Redis
-- Docker
+## My Core Stack
+
+- Node.js
 - Kubernetes
+- Docker
 - Kafka
-- REST API
-- GraphQl
 - Nginx
-- Bash Scripting
-- React
-- Recharts
-- Nextjs
 - PostgreSQL
 - MongoDB
-- OAuth 2.0
-- CI/CD
+- GraphQL
+- REST API
 - WebSocket
-- Tailwind CSS
-- Matplotlib
-- MobX
-  
+- Bash Scripting
+- AWS
+- Redis
+- CI/CD
+- OAuth 2.0
+- Python
+
 ---
 
-### I also know
-- Python
+## My Frontend Skills 
+
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- MobX
+- Recharts
+
+---
+
+## I also know
+
 - C++
 - Java
+- C#
 - Fortran
-- c#
 
 ---
 
-### I have also CMS knowledge 😜
-- Wordpress
+## CMS & Web Platforms
+
+- WordPress
 - WooCommerce
 - Webflow
 - Blogger
-  
+
 ---
 
-### Tools & Management Softwares I use
+## Tools & Management
+
 - Jira
 - Linear
 - Postman
-  
+
 ---
 
-### Favourite Operating System
-- Linux (Ubuntu)
+## OS
+
+**Linux - Ubuntu**
