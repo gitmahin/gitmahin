@@ -5,6 +5,7 @@
 - Node.js
 - Kubernetes
 - Docker
+- Jenkins
 - Kafka
 - Nginx
 - PostgreSQL
