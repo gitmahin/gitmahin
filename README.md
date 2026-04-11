@@ -31,12 +31,15 @@
 
 
 ## Also, I have knowledge of
+#### Programming Languages
 - C++
 - Java 
 - C#
 - C
 - Fortran
-- Python 
+- Python
+#### Database
+- MongoDB
 
 
 ## I also know CMS & Web Platforms
