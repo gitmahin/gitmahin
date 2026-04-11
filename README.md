@@ -1,4 +1,4 @@
-# Passionate pr0grammer with extensive working knowledge gained over the past few years.
+# Passionate programmer focused on building scalable systems, working with system design and software architecture.
 
 ## My Core Stack
 - Node.js (Primary)
