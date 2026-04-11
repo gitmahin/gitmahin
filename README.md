@@ -13,11 +13,13 @@
 - WebSocket
 - Kafka
 - Jenkins
-- Nginx
-- infrustructure as code
 - CI/CD
-- Kubernetes
 - OpenAPI (Swagger)
+
+## DevOps Technologies (Proficient)
+- Nginx
+- Kubernetes
+- infrustructure as code
 
 ## My Frontend Skills 
 - TypeScript
