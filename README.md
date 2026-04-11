@@ -1,58 +1,52 @@
 # Passionate pr0grammer with extensive working knowledge gained over the past few years.
 
 ## My Core Stack
-
-- Node.js
-- Kubernetes
-- Docker
-- Jenkins
-- Kafka
-- Nginx
+- Node.js (Primary)
 - PostgreSQL
-- MongoDB
 - GraphQL
+- Docker
+- Redis
+- AWS
+- Bash Scripting
+- OAuth 2.0
 - REST API
 - WebSocket
-- Bash Scripting
-- AWS
-- Redis
+- Kafka
+- Jenkins
+- Nginx
+- infrustructure as code
 - CI/CD
-- OAuth 2.0
-- Python
+- Kubernetes
+- OpenAPI (Swagger)
 
 ## My Frontend Skills 
-
 - TypeScript
 - React
+- RND
+- DND Kit
 - Next.js
 - Tailwind CSS
 - MobX
 - Recharts
 
 
-## I also know
-
+## Also, I have knowledge of
 - C++
-- Java
+- Java 
 - C#
+- C
 - Fortran
+- Python 
 
 
-## CMS & Web Platforms
-
+## I also know CMS & Web Platforms
 - WordPress
 - WooCommerce
-- Webflow
-- Blogger
-
 
 ## Tools & Management
-
 - Jira
 - Linear
 - Postman
 
-
 ## OS
-
 **Linux - Ubuntu**
