@@ -54,4 +54,4 @@
 - Postman
 
 ## OS
-**Linux - Ubuntu**
+**Linux - Arch**
