@@ -10,16 +10,17 @@
 - Bash Scripting
 - OAuth 2.0
 - REST API
+- gRPC
 - WebSocket
 - Kafka
 - Jenkins
 - CI/CD
-- OpenAPI (Swagger)
+- OpenAPI
 
 ## DevOps Technologies (Proficient)
 - Nginx
 - Kubernetes
-- infrustructure as code
+- infrustructure as code (Terraform)
 
 ## My Frontend Skills 
 - TypeScript
@@ -27,6 +28,8 @@
 - RND
 - DND Kit
 - Next.js
+- Reactjs
+- Tanstack (Current)
 - Tailwind CSS
 - MobX
 - Recharts
@@ -34,7 +37,7 @@
 
 ## Also, I have knowledge of
 #### Programming Languages
-- C++
+- C++ (Alongside Nodejs)
 - Java 
 - C#
 - C
@@ -54,4 +57,4 @@
 - Postman
 
 ## OS
-**Linux - Arch**
+**Linux - Ubuntu**
