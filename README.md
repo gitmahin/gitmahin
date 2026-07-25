@@ -1,4 +1,4 @@
-# Passionate programmer focused on building scalable systems, working with system design and software architecture.
+# Self-taught software engineer passionate about building scalable systems, with a strong focus on system design and software architecture.
 
 ## My Core Stack
 - Node.js (Primary)
