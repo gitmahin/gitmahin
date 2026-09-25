@@ -16,6 +16,7 @@
 - Jenkins
 - CI/CD
 - OpenAPI
+- MCP
 
 ## DevOps Technologies (Proficient)
 - Nginx
