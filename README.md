@@ -2,21 +2,25 @@
 
 ## My Core Stack
 - Node.js (Primary)
+- Python
+- Express
+- FastApi
+- Bash Scripting
+- MCP
 - PostgreSQL
 - GraphQL
 - Docker
 - Redis
 - AWS
-- Bash Scripting
 - OAuth 2.0
 - REST API
+- RabbitMQ
 - gRPC
 - WebSocket
 - Kafka
 - Jenkins
 - CI/CD
 - OpenAPI
-- MCP
 
 ## DevOps Technologies (Proficient)
 - Nginx
@@ -35,7 +39,6 @@
 - MobX
 - Recharts
 
-
 ## Also, I have knowledge of
 #### Programming Languages
 - C++ (Alongside Nodejs)
@@ -43,10 +46,9 @@
 - C#
 - C
 - Fortran
-- Python
+
 #### Database
 - MongoDB
-
 
 ## I also know CMS & Web Platforms
 - WordPress
