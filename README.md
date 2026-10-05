@@ -7,6 +7,7 @@
 - FastApi
 - Bash Scripting
 - MCP
+- LangChain
 - PostgreSQL
 - GraphQL
 - Docker
